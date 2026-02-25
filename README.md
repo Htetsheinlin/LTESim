@@ -1,8 +1,5 @@
 # LTESim
 LTESim
-**clean Markdown architecture diagram** for **LTE Multi-Cell System-Level Simulator**.
-You can paste this directly into:
-
 
 It models:
 
